@@ -1,0 +1,11 @@
+1. http://nbviewer.ipython.org/github/ipython/ipython/blob/3607712653c66d63e0d7f13f073bde8c0f209ba8/docs/examples/notebooks/rmagic_extension.ipynb
+	- Useage for R in IPython Notebook
+
+2. http://www.cookbook-r.com/Graphs/Facets_(ggplot2)/
+	- about facet
+
+3. https://github.com/jrnold/ggthemes#examples
+	- nice theme for ggplot
+
+4. http://wiki.openstreetmap.org/wiki/Map_Features
+	- Understand *.osm files elements.
